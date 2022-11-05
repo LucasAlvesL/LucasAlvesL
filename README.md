@@ -13,7 +13,6 @@
   
   <br>![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)
   
-  <a href="https://www.linkedin.com/in/mathmatos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
