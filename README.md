@@ -2,6 +2,9 @@
 
 - 🔭 Hoje estudo Desenvolvimento Web
 - 🌱 Estudando ReactJS & NextJS ...
+- 👨‍🎓 Aluno na Alura
+
+>Este é um *blockquote*. O sinal usado abre e fecha este código no HTML.
 
 <div align="center">
   <a href="https://github.com/LucasAvs1">
