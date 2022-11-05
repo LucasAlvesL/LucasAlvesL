@@ -11,7 +11,7 @@
   
 <div style="display: inline_block"><br>
   
-  <br>[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)]
+  <br>![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css)
   
   <a href="https://www.linkedin.com/in/lucas-alves-lobo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"/a> 
 </div>
