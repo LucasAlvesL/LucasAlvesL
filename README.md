@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas Alves
 
 ### Sobre mim
->- 🔭 Hoje estudo Desenvolvimento Web.
+>- 🔭 Hoje sou Desenvolvimento Web.
 >- 🌱 Estudando ReactJS & NextJS.
 >- 👨‍🎓 Aluno na Alura.
 
