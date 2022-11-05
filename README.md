@@ -2,7 +2,6 @@
 
 - 🔭 Hoje estudo Desenvolvimento Web
 - 🌱 Estudando ReactJS & NextJS ...
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/LucasAvs1">
