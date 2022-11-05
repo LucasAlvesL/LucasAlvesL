@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAvs1&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <h3>Linguagens:</h3>
+  <h3 style="border-bottom: 2px solid #fff">Linguagens:</h3>
   <img align="center" alt="Lucas-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lucas-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
