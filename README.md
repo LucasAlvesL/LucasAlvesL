@@ -5,7 +5,7 @@
 >- 🌱 Estudando ReactJS & NextJS.
 >- 👨‍🎓 Aluno na Alura.
 
-<h3>Skills:</h3> 
+<h3 align="center">Skills:</h3> 
 <div align="center" style="display: flex flex-direction: row">
   <a href="https://github.com/LucasAvs1">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAvs1&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
