@@ -1,10 +1,8 @@
 ### Olá, me chamo Lucas Alves
 
-- 🔭 Hoje estudo Desenvolvimento Web
-- 🌱 Estudando ReactJS & NextJS ...
-- 👨‍🎓 Aluno na Alura
-
->Este é um *blockquote*. O sinal usado abre e fecha este código no HTML.
+>- 🔭 Hoje estudo Desenvolvimento Web
+>- 🌱 Estudando ReactJS & NextJS ...
+>- 👨‍🎓 Aluno na Alura
 
 <div align="center">
   <a href="https://github.com/LucasAvs1">
