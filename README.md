@@ -20,5 +20,6 @@
   <img align="center" alt="Lucas-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-
+<div align="center">
   ![Snake animation](https://github.com/LucasAvs1/github-contribution/blob/main/github-contribution-grid-snake.svg)
+</div>
