@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LucasAvs1/b99c9feb6f4fbacb2d993dfc0282f0f8/raw/46003719724a5f0fdd88ce9fbae721574fdd61f7/githubcard.svg"/>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Lucas!;" /></h1>
 <p align="left">  </p>
 <br>
