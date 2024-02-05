@@ -26,5 +26,5 @@
 # ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAvs1&layout=compact&theme=vision-friendly-dark" alt="Lucas's most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAvs1&layout=compact&theme=darcula" alt="Lucas's most languages"/>
 </p>
